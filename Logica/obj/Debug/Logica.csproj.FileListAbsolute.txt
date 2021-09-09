@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\3capas\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\3capas\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\3capas\Logica\bin\Debug\Logica.exe.config
+C:\Users\Usuario\source\repos\3capas\Logica\bin\Debug\Logica.exe
+C:\Users\Usuario\source\repos\3capas\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\source\repos\3capas\Logica\bin\Debug\Datos.exe
+C:\Users\Usuario\source\repos\3capas\Logica\bin\Debug\Datos.pdb
+C:\Users\Usuario\source\repos\3capas\Logica\bin\Debug\Datos.exe.config
+C:\Users\Usuario\source\repos\3capas\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Usuario\source\repos\3capas\Logica\obj\Debug\Logica.exe
+C:\Users\Usuario\source\repos\3capas\Logica\obj\Debug\Logica.pdb

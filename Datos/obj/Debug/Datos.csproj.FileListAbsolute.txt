@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\3capas\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\3capas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\3capas\Datos\bin\Debug\Datos.exe.config
+C:\Users\Usuario\source\repos\3capas\Datos\bin\Debug\Datos.exe
+C:\Users\Usuario\source\repos\3capas\Datos\bin\Debug\Datos.pdb
+C:\Users\Usuario\source\repos\3capas\Datos\bin\Debug\System.Data.Common.dll
+C:\Users\Usuario\source\repos\3capas\Datos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\3capas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Usuario\source\repos\3capas\Datos\obj\Debug\Datos.exe
+C:\Users\Usuario\source\repos\3capas\Datos\obj\Debug\Datos.pdb
